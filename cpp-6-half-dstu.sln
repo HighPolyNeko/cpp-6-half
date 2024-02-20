@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Negoda_cpp_1", "Negoda_cpp_1\Negoda_cpp_1.vcxproj", "{70E9CAB1-42A1-4F0E-9A84-3C3C8207BFD1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_1", "lesson_1\lesson_1.vcxproj", "{70E9CAB1-42A1-4F0E-9A84-3C3C8207BFD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
